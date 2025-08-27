@@ -1,2 +1,2 @@
-# AgoraVai
-AgoraVaiMesmo
+# AgoraVaiSério
+AgoraVaiMesmo vai de verdade
